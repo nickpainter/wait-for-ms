@@ -1,0 +1,28 @@
+{
+  "name": "wait-for-ms",
+  "version": "1.0.8",
+  "description": "Function that delays execution for x milliseconds.  Requires nodejs 9.3 or higher.  Utilizes Atomics.wait.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpainter/wait-for-ms.git"
+  },
+  "keywords": [
+    "sleep",
+    "wait",
+    "delay",
+    "throttle"
+  ],
+  "author": "Nick Painter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickpainter/wait-for-ms/issues"
+  },
+  "homepage": "https://github.com/nickpainter/wait-for-ms#readme",
+  "devDependencies": {
+    "@types/node": "^13.1.8"
+  }
+}
