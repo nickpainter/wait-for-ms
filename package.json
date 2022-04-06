@@ -1,8 +1,8 @@
 {
   "name": "wait-for-ms",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Function that delays execution for x milliseconds.  Requires nodejs 9.3 or higher.  Utilizes Atomics.wait.",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
